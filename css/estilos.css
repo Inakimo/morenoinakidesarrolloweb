@@ -1,0 +1,213 @@
+.nav-item{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    justify-content: flex-end;
+}
+
+.navbar-brand img{
+    height: 50px;
+}
+
+
+#herounit h1{
+    font-size: 70px;
+}
+
+#herounit a{
+    color: black;
+}
+
+.btn-outline-light{
+    color: white;
+    padding-top: 5px;
+}
+
+
+
+.navbar-toggler{
+    justify-content: end;
+
+}
+
+.navbar{
+    background-color: rgb(34,34,34);
+    
+}
+
+#herounit {
+    text-align: center;
+    padding-top: 12%;
+    background-image:url(../imagenes/fondoheader.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding-bottom: 12%;
+    border-style: solid;
+    border: 2px;
+    font-family:'Goldman', cursive;
+    color: white;
+    
+}
+
+
+
+.card-group{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    
+}
+
+.card-title{
+    text-align: center;
+}
+
+.card-text{
+    text-align: center;
+}
+
+
+.card{
+    border: none;
+}
+
+.productos{
+    margin-left: 10%;
+    margin-right: 10%;
+  
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+#marcas{
+    padding-left: auto;
+    padding-right: auto;
+}
+
+#galeria{
+    padding-bottom: 5%;
+    padding-top: 3%;
+}
+
+.sinfondo{
+    background-color:rgba(73, 72, 72, 0.5) ; 
+}
+
+.carousel-inner{
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.testimonio{
+    font-size: larger;
+    text-align: center;
+}
+
+.testimonial-carousel .carousel-indicators button {
+    width: 30px;
+    height: 10px;
+    background-color: black;
+    
+} 
+.testimonial-carousel{
+    
+    padding: 10px 0px 40px;
+}
+
+i{
+    font-size: xx-large;
+}
+
+.bi-palette-fill {
+    text-align: center;
+    font-size: 75px;
+}
+
+.bi-motherboard-fill{
+    text-align: center;
+    font-size: 75px;
+}
+
+.bi-display{
+    text-align: center;
+    font-size: 75px;
+}
+
+main{
+    padding-top: 20px;
+}
+
+footer{
+    background-color: rgb(34,34,34);
+    padding-top: 20px;
+}
+
+.boton{
+    text-align: center;
+}
+
+.instagram{
+   
+}
+
+.piedepagina{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+form{
+    margin-bottom: 25px;
+}
+
+.gallery{
+    padding-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(34,34,34);
+}
+
+
+
+.redes-sociales{
+    color: white;
+}
+
+.bi-instagram{
+    color: white;
+}
+
+.bi-facebook{
+    color: white;
+}
+
+.bi-youtube{
+    color: white;
+}
+
+
+#contactanos{
+    color: white;
+    text-align: center;
+}
+
+#alienwarex14 img{
+    width: 75%;
+}
+
+#alienwarem15 img{
+    width: 75%;
+}
+
+#alienwarex17 img{
+    width: 75%;
+}
